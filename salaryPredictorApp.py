@@ -108,4 +108,4 @@ if st.button("💵 Predict Salary"):
     st.success(f"💰 Your estimated salary is: **${prediction:,.2f} per year**")
 
 st.markdown("---")
-st.markdown("<small>Built with ❤️ by [Oscar Narula]</small>", unsafe_allow_html=True)
+st.markdown("<small>Built with ❤️ by [Oscar Narula, Ivelys Garcia Sanabria, and Shailyn O'Sullivan]</small>", unsafe_allow_html=True)
